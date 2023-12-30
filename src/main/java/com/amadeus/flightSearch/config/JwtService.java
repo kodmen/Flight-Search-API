@@ -1,6 +1,6 @@
 package com.amadeus.flightSearch.config;
 
-import com.amadeus.flightSearch.entity.meta.User;
+import com.amadeus.flightSearch.entity.User;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;

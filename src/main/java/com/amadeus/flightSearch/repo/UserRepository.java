@@ -1,6 +1,6 @@
 package com.amadeus.flightSearch.repo;
 
-import com.amadeus.flightSearch.entity.meta.User;
+import com.amadeus.flightSearch.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

@@ -1,6 +1,7 @@
-package com.amadeus.flightSearch.entity.meta;
+package com.amadeus.flightSearch.entity;
 
 
+import com.amadeus.flightSearch.entity.Token;
 import com.amadeus.flightSearch.enums.Gender;
 import com.amadeus.flightSearch.enums.Role;
 import jakarta.persistence.*;

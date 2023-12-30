@@ -1,4 +1,4 @@
-package com.amadeus.flightSearch.entity.meta;
+package com.amadeus.flightSearch.entity;
 
 import com.amadeus.flightSearch.enums.TokenType;
 import jakarta.persistence.*;
